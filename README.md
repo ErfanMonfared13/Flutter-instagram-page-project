@@ -1,7 +1,7 @@
 # widgets
 
 A new Flutter project.
-
+This is my first Flutter project tha is contain the instagram page but it is not dynamic and it contains the basic widgets inFlutter. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
